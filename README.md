@@ -1,5 +1,4 @@
 # **Image Segmentation Using Deep Learning**  
-### **DSC-680 Final Project**  
 
 ## **Project Overview**  
 This project focuses on **image segmentation**, a technique that divides an image into multiple segments where each represents an object or region of interest. By leveraging **deep learning**, we train a model to accurately segment images, helping machines identify objects much like humans do. The model is trained on a dataset containing **20 object classes** and employs **U-Net**, a convolutional neural network widely used for biomedical and general image segmentation.  
